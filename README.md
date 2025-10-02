@@ -79,7 +79,7 @@ npm run dev
 Type JavaScript/TypeScript code in the editor →
 AST JSON + tree view updates instantly!
 
-![AST Explorer Screenshot](docs/screenshot.png)
+![AST Explorer Screenshot](docs/screenshot.jpg)
 
 
 ---
